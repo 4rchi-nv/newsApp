@@ -1,3 +1,6 @@
+::selection {
+  color: cyan;
+}
 .news-container .card-title {
   background: rgba(0, 0, 0, 0.7);
 }
